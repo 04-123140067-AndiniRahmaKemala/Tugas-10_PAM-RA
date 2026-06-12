@@ -1,4 +1,4 @@
-# 📝 Tugas Individu 3 - My Notes App (KMP + Groq AI)
+# 📝 Tugas Individu 10 - My Notes App (KMP + Groq AI)
 
 Aplikasi manajemen catatan cerdas berbasis **Kotlin Multiplatform (KMP)** yang menggabungkan fitur native platform dengan kekuatan **Artificial Intelligence**.
 
