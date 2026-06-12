@@ -45,8 +45,10 @@ Aplikasi ini menggunakan **Groq Cloud API** sebagai mesin AI utama karena kecepa
 - **DataStore**: Untuk penyimpanan pengaturan aplikasi (Theme settings).
 
 ---
-## Result Test
-![Test Report](<img width="1760" height="990" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/65cd1cda-1887-40ee-9433-c456b98345ec" />)
+
+## Test Results
+
+![Test Report](<img width="1760" height="990" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/19e5bb7e-3fbb-4932-8b4a-5c7a503d2bf2" />)
 
 ## ✅ Rubrik Penilaian (Compliance)
 
