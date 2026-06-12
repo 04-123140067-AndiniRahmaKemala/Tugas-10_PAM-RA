@@ -48,7 +48,11 @@ Aplikasi ini menggunakan **Groq Cloud API** sebagai mesin AI utama karena kecepa
 
 ## Test Results
 
-![Test Report](<img width="1760" height="990" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/19e5bb7e-3fbb-4932-8b4a-5c7a503d2bf2" />)
+<div align="center">
+  <<img width="1760" height="990" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/35f35414-56ca-4be8-8a04-d0404d80fb1d" />
+ />
+  <p><i>A modern beauty e-commerce application built with Compose Multiplatform.</i></p>
+</div>
 
 ## ✅ Rubrik Penilaian (Compliance)
 
